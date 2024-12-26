@@ -81,7 +81,7 @@ const Navbar = () => {
                             className="my-2 text-gray-100 transition-colors duration-300 transform dark:text-gray-100 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
                             href="#"
                         >
-                            İletişim
+                            İletisim
                         </a>
                         <a
                             className="my-2 text-gray-100 transition-colors duration-300 transform dark:text-gray-100 hover:text-blue-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
