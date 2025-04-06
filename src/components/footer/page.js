@@ -43,13 +43,14 @@ const Footer = () => {
                         <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2">
 
                             <div>
-                                <h3 className="text-gray-700 dark:text-white">ÜRÜNLER</h3>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Kolye</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Küpe</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Yüzük</a>
+                                <h3 className="text-gray-700 dark:text-white">Kategoriler</h3>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Kolyeler</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Küpeler</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Yüzükler</a>
+                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Setler</a>
                             </div>
                             <div>
-                                <h3 className="text-gray-700 dark:text-white">İLETİŞİM</h3>
+                                <h3 className="text-gray-700 dark:text-white">İletişim</h3>
                                 <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">+90 551 000 00 00</a>
                                 <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">info@medinegumus.com</a>
                             </div>
