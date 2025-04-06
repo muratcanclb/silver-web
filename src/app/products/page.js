@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 
-const CardComponent = () => {
+const products = () => {
     return (
         <div className='container px-5 py-24 mx-auto grid grid-cols-1 gap-4 lg:grid-cols-3'>
             <div className="relative group w-full h-full">
@@ -46,7 +46,7 @@ const CardComponent = () => {
                 </div>
             </div>
         </div>
-    );
-};
+    )
+}
 
-export default CardComponent;
+export default products

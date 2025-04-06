@@ -12,8 +12,8 @@ const Navbar = () => {
         <nav className="relative bg-white shadow dark:bg-white">
             <div className="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
                 <div className="flex items-center justify-between">
-                    <a href="#">
-                        <img className="w-20 sm:w-24 md:w-32 lg:w-40 xl:w-20" src="./mg-logo3.1.png" alt="Logo"></img>
+                    <a href="/">
+                        <img className="w-20 sm:w-24 md:w-32 lg:w-40 xl:w-20" src="/mg-logo3.1.png" alt="Logo"></img>
                     </a>
 
                     {/* Mobile menu button */}
@@ -67,13 +67,13 @@ const Navbar = () => {
                     <div className="flex flex-col md:flex-row md:mx-6">
                         <a
                             className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-100 hover:text-gray-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
-                            href="#"
+                            href="/"
                         >
                             Anasayfa
                         </a>
                         <a
                             className="my-2 text-gray-700 transition-colors duration-300 transform dark:text-gray-100 hover:text-gray-500 dark:hover:text-blue-400 md:mx-4 md:my-0"
-                            href="#"
+                            href="/products"
                         >
                             Ürünlerimiz
                         </a>

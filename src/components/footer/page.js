@@ -7,10 +7,9 @@ const Footer = () => {
                 <div className="lg:flex">
                     <div className="w-full -mx-6 lg:w-2/5">
                         <div className="px-6">
-                            <a href="#">
-                                <img className="w-auto h-8" src="./mg-logo2.1.png" alt="Logo" />
+                            <a href="/">
+                                <img className="w-auto h-8" src="/mg-logo2.1.png" alt="Logo" />
                             </a>
-
                             <div className="flex mt-4 -mx-3">
                                 <a
                                     href="#"
@@ -44,10 +43,10 @@ const Footer = () => {
 
                             <div>
                                 <h3 className="text-gray-700 dark:text-white">Kategoriler</h3>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Kolyeler</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Küpeler</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Yüzükler</a>
-                                <a href="#" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Setler</a>
+                                <a href="/" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Kolyeler</a>
+                                <a href="/products/earrings" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Küpeler</a>
+                                <a href="/products/rings" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Yüzükler</a>
+                                <a href="/products/set" className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Setler</a>
                             </div>
                             <div>
                                 <h3 className="text-gray-700 dark:text-white">İletişim</h3>

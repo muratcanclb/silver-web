@@ -19,3 +19,12 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.imageRings {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  /* Resmin içeriği sığacak şekilde ölçeklenir */
+  object-position: center;
+  /* Resmi ortalar */
+}
